@@ -21,7 +21,7 @@ app.set('views', "views")
 hbs.registerPartials("views/partials")
 
 // db connection
-mongoose.connect("mongodb+srv://lightmate:zqmLbPpWdUv1lcJz@cluster0.r7drk.mongodb.net/Dynamic_website", ()=>{
+mongoose.connect("mongodb+srv://@@@@@@@:123567@cluster0.r7drk.mongodb.net/Dynamic_website", ()=>{
   // console.log("DB connected")
 
 })
