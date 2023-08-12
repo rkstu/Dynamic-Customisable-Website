@@ -1,4 +1,4 @@
-# Dynamic-website-with-complete-frontend-modification-control
+# Dynamic Customisable Website
 
 Live at https://dynamic-web-rkstu.onrender.com/
 
